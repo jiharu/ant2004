@@ -1,0 +1,100 @@
+name = pete_bl
+type = body+head
+scale = 1
+filename = pete_bl/pete_bl.fbx
+texdir = pete_bl/textures
+joint = jointEyeRight = RightEye
+joint = jointEyeLeft = LeftEye
+joint = jointLeftHand = LeftHand
+joint = jointRoot = Hips
+joint = jointLean = Spine
+joint = jointRightHand = RightHand
+joint = jointNeck = Neck
+joint = jointHead = Head
+freeJoint = LeftArm
+freeJoint = LeftForeArm
+freeJoint = RightArm
+freeJoint = RightForeArm
+jointIndex = LeftLeg = 11
+jointIndex = RightToeBase = 7
+jointIndex = RightArm = 20
+jointIndex = LeftHandMiddle1 = 60
+jointIndex = LeftHandPinky1 = 52
+jointIndex = LeftHandPinky2 = 53
+jointIndex = RightHandIndex3 = 30
+jointIndex = LeftHandMiddle3_end = 63
+jointIndex = RightUpLeg = 4
+jointIndex = LeftToeBase = 13
+jointIndex = LeftHandRing1 = 57
+jointIndex = LeftHandThumb4 = 72
+jointIndex = LeftHandIndex2 = 65
+jointIndex = RightHandRing4_end = 42
+jointIndex = LeftHandPinky4 = 55
+jointIndex = RightHandThumb4_end = 27
+jointIndex = Spine2 = 18
+jointIndex = RightHandIndex2 = 29
+jointIndex = LeftHandIndex3 = 66
+jointIndex = RightHandThumb2 = 24
+jointIndex = LeftHandMiddle3 = 62
+jointIndex = RightToe_End = 8
+jointIndex = RightForeArm = 21
+jointIndex = LeftShoulder = 48
+jointIndex = LeftHandThumb1 = 69
+jointIndex = RightHandThumb4 = 26
+jointIndex = LeftFoot = 12
+jointIndex = RightHandMiddle4_end = 37
+jointIndex = RightHandMiddle4 = 36
+jointIndex = RightLeg = 5
+jointIndex = RightHandPinky4 = 46
+jointIndex = RightEye = 80
+jointIndex = Lamp = 1
+jointIndex = RightToe_End_end = 9
+jointIndex = RightHandPinky2 = 44
+jointIndex = LeftHandPinky4_end = 56
+jointIndex = RightHand = 22
+jointIndex = RightHandRing1 = 38
+jointIndex = Spine1 = 17
+jointIndex = Head = 75
+jointIndex = RightHandMiddle3 = 35
+jointIndex = LeftHandThumb2 = 70
+jointIndex = LeftHandThumb4_end = 73
+jointIndex = LeftHand = 51
+jointIndex = LeftForeArm = 50
+jointIndex = RightHandMiddle2 = 34
+jointIndex = LeftHandPinky3 = 54
+jointIndex = RightShoulder = 19
+jointIndex = Hips = 3
+jointIndex = RightHandThumb3 = 25
+jointIndex = LeftToe_End = 14
+jointIndex = RightHandIndex4 = 31
+jointIndex = RightHandRing2 = 39
+jointIndex = Camera = 0
+jointIndex = RightHandPinky3 = 45
+jointIndex = HeadTop_End_end = 77
+jointIndex = LeftToe_End_end = 15
+jointIndex = Neck = 74
+jointIndex = RightEye_end = 81
+jointIndex = RightHandRing3 = 40
+jointIndex = group = 2
+jointIndex = RightHandPinky1 = 43
+jointIndex = LeftUpLeg = 10
+jointIndex = RightFoot = 6
+jointIndex = RightHandIndex1 = 28
+jointIndex = RightHandIndex4_end = 32
+jointIndex = LeftHandIndex4 = 67
+jointIndex = HeadTop_End = 76
+jointIndex = LeftEye = 78
+jointIndex = LeftHandMiddle2 = 61
+jointIndex = LeftArm = 49
+jointIndex = RightHandPinky4_end = 47
+jointIndex = Spine = 16
+jointIndex = LeftHandIndex1 = 64
+jointIndex = polySurface1 = 82
+jointIndex = RightHandRing4 = 41
+jointIndex = LeftHandIndex4_end = 68
+jointIndex = LeftHandRing2_end = 59
+jointIndex = RightHandThumb1 = 23
+jointIndex = LeftHandThumb3 = 71
+jointIndex = LeftEye_end = 79
+jointIndex = RightHandMiddle1 = 33
+jointIndex = LeftHandRing2 = 58
